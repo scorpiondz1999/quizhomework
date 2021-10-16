@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Code-Quiz</title>
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+   
+</head>
+<body>
+
+    <div class="row">
+        <div class="columnX"></div>
+        <div class="columnY">
+            <p id="showdiv" class="hidescore"><a href="#">Hide scores</a></p>
+    <p id="hidediv" class="showscore"><a href="#">Show scores</a></p>
+    
+    <div id="divscore" class="hidescore">
+    <div class="disp-scores game-box">        
+        <div class="columnX"></div>
+            <div id="highScoresDiv" class="columnY">
+                <h1 id="scoresArea">High Scores</h1>
+                <div id="highScoresList"></div>
+
+                <button class="btn btn-primary" id="backButton">Go Back</button>
+                <button class="btn btn-primary" id="clearScores">Clear Scores</button>
+            </div>
+            <div class="columnX"></div>
+        
+</div>
+</div>
+            <div class="row pb-4">
+                <div class="col-lg-4">
+                    <h2 class="code-title">Code-Quiz</h2>
+                    
+                    <!-- <button class="btn btn-outline-primary">Hight Score</button> -->
+                </div>
+                <hr>
+                <div class="col-lg-4"></div>               
+            </div>
+            <div class="quiz-questions d-none" id="quiz-questions">
+                <h2 class="text-info  text-center" id="title-item"></h2>
+                <div class="answers mt-5 mb-5" id="question-answers">
+                </div>
+                <h1 id="alert"></h1>
+                
+            </div>
+            <div class="btnstart d-flex  flex-column justify-content-center mt-8 mb-10" > 
+                <p id="info">Try to answer the following code-related questions within the time limit. Keep in mind that incorrect answers will penalize your score time by 15 seconds.
+                </p>
+                <button class="btn btn-primary btn-lg btn-answers" id="btn-start">Start Quiz</button>
+                
+            </div>
+            
+            <div><b><p id="score" class="myscore"></p></b></div>
+            <div class=" input-group mb-3 d-none btn-answers" id="addscore">
+                <h5 class="d-block"></h5>
+                
+                    <input type="text" class="form-control" placeholder="Enter your initials:"
+                    id="inputScore" aria-describedby="basic-addon2">
+                    <div class="input-group-append">
+                        <button class="input-group-text btn btn-primary" id="btnScore">Submit</button>
+
+                    </div>                    
+            </div>
+
+            <div class="d-none" id="response">
+                <div class="answers mt-5 mb-5">
+                    <p  id="responseText"></p>
+                </div>
+                
+            </div>
+        </div>
+        <div class="columnX">
+            <div>
+                <h4 class="float-right text-primary d-none" id="timecounter">Timer :<span id="timer" class="timer-pos">75</span></h4>
+
+            </div>
+        </div>
+    </div>    
+        
+    <script src="assets/js/script.js"></script>
+    <script src="assets/js/score"></script>
+    </body>
+
+
+</html>

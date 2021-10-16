@@ -1,0 +1,87 @@
+body,html{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  background-image: url(Images/weather.png);
+  height: 100%;
+}
+.game-box{
+  background: #eeeeee;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0.,0,0,0.23);
+
+  display:''
+}
+
+.showscore{
+  display: ""
+}
+
+.hidescore{
+  display: none
+}
+
+.answer-item{
+  background: rgb(223, 201, 7);
+  width: 90%;
+  display: inline-block;
+  border-radius:8px;
+  padding: 3px;
+}
+#btn-start{
+  border:none;
+padding:10px 20px 6px 25px;
+border-radius:8px;
+background:#1645c7;
+  font:bold 40px;
+color:#fff;
+}
+
+#code-title{
+  text-align: center;
+  font-weight: bold;
+}
+
+.btn-answers{
+  width: 300px;
+    position: relative;
+    left: 30%;
+}
+
+.timer-pos{
+  margin-right: 50px;
+}
+
+.row{
+  display: flex;
+  margin-top: 20px;
+}
+
+.columnX{
+  flex: 25%;
+}
+
+.columnY{
+  flex: 50%;  
+}
+
+.disp-scores{
+  display: flex;
+  justify-content: center;
+}
+
+#responseText{
+  font-size: 18px;
+}
+
+.color-resp-text-good{
+  color:blue
+}
+
+.color-resp-text-wrong{
+  color:red
+}
+
+.myscore{
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}

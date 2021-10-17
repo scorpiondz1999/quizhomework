@@ -1,4 +1,4 @@
-Description
+Description:
 I was given the task to create a Javascript fundamental quiz to gauge the progress of coding students. The app needs to include a timer, mulitple choice questions and the ability to record and store high scores. The app uses HTML, CSS and Javascript to create a clean, easy to use interface.
 
 The user can now start the quiz with 75 seconds to answer 4 mulitple choice questions. Any time the answer chooses the correct answer it moves on to the next question. If the user answers incorrectly, they are notified it is wrong and there is a penalty of 15 seconds off the timer. At the end of the quiz, the user can record their score and view all other scores that are recorded in the local storage. The user also has the option to clear all the scores.
@@ -12,5 +12,14 @@ Once done ansering all questions or time is zero ,your score will display in you
 ![2021-10-16 (3)](https://user-images.githubusercontent.com/84550325/137607346-305ebd1a-c3ad-4a6f-b988-73005500c9ef.png)
 Click on show score to see your score and initial as well ,both are saved !! if you want to clear scores its easy just click on "Clear Scores" or maybe you need to retake the quiz again to improve your ? we made it easy for you please click on "Go Back" and there we go!! 
 ![2021-10-16 (4)](https://user-images.githubusercontent.com/84550325/137607429-fd91b13b-67af-471a-82d7-ce9536b4fc69.png)
+Built With
+HTML
+CSS
+javascript
+Website
+
+
+Contribution
+Made by Djamel Ramdani
 
 

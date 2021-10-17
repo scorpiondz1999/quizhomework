@@ -6,3 +6,5 @@ This is  begining of the quiz.
 ![2021-10-16](https://user-images.githubusercontent.com/84550325/137606974-d1a9744a-1cd5-4753-97cf-b7fad4e498b8.png)
 As you can see you have a question with four answers choices ,only one is correct ,remember that the timer is getting down !
 ![2021-10-16 (1)](https://user-images.githubusercontent.com/84550325/137607158-8c59eb78-eb02-4b95-871a-48ca5b506585.png)
+If your answer is correct a display message with show "GOOD' if not you will see "WRONG" and a penalty of 15 seconds will apply.
+![2021-10-16 (2)](https://user-images.githubusercontent.com/84550325/137607282-39fd2fcd-dffd-4842-b820-390f9cd750fe.png)

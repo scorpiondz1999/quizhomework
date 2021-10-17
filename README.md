@@ -10,3 +10,7 @@ If your answer is correct a display message with show "GOOD' if not you will see
 ![2021-10-16 (2)](https://user-images.githubusercontent.com/84550325/137607282-39fd2fcd-dffd-4842-b820-390f9cd750fe.png)
 Once done ansering all questions or time is zero ,your score will display in your screen ,please enter your initial .
 ![2021-10-16 (3)](https://user-images.githubusercontent.com/84550325/137607346-305ebd1a-c3ad-4a6f-b988-73005500c9ef.png)
+Click on show score to see your score and initial as well ,both are saved !! if you want to clear scores its easy just click on "Clear Scores" or maybe you need to retake the quiz again to improve your ? we made it easy for you please click on "Go Back" and there we go!! 
+![2021-10-16 (4)](https://user-images.githubusercontent.com/84550325/137607429-fd91b13b-67af-471a-82d7-ce9536b4fc69.png)
+
+

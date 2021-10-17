@@ -8,3 +8,5 @@ As you can see you have a question with four answers choices ,only one is correc
 ![2021-10-16 (1)](https://user-images.githubusercontent.com/84550325/137607158-8c59eb78-eb02-4b95-871a-48ca5b506585.png)
 If your answer is correct a display message with show "GOOD' if not you will see "WRONG" and a penalty of 15 seconds will apply.
 ![2021-10-16 (2)](https://user-images.githubusercontent.com/84550325/137607282-39fd2fcd-dffd-4842-b820-390f9cd750fe.png)
+Once done ansering all questions or time is zero ,your score will display in your screen ,please enter your initial .
+![2021-10-16 (3)](https://user-images.githubusercontent.com/84550325/137607346-305ebd1a-c3ad-4a6f-b988-73005500c9ef.png)
